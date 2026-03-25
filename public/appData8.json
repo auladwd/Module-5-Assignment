@@ -1,0 +1,146 @@
+[
+  {
+    "image": "https://picsum.photos/200?random=1",
+    "title": "Instagram",
+    "companyName": "Meta Platforms Inc.",
+    "id": 1,
+    "description": "A social media platform for sharing photos, videos, and stories with your friends and followers.",
+    "size": 89,
+    "reviews": 15420000,
+    "ratingAvg": 4.5,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": 1120000 },
+      { "name": "2 star", "count": 950000 },
+      { "name": "3 star", "count": 2100000 },
+      { "name": "4 star", "count": 4500000 },
+      { "name": "5 star", "count": 7200000 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=2",
+    "title": "WhatsApp Messenger",
+    "companyName": "Meta Platforms Inc.",
+    "id": 2,
+    "description": "Free messaging and calling app that lets you connect instantly with anyone around the world.",
+    "size": 70,
+    "reviews": 12800000,
+    "ratingAvg": 4.6,
+    "downloads": "6M",
+    "ratings": [
+      { "name": "1 star", "count": 900000 },
+      { "name": "2 star", "count": 800000 },
+      { "name": "3 star", "count": 1800000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 6100000 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=3",
+    "title": "TikTok",
+    "companyName": "ByteDance",
+    "id": 3,
+    "description": "Short-form video app where users create, share, and discover entertaining content.",
+    "size": 120,
+    "reviews": 9820000,
+    "ratingAvg": 4.4,
+    "downloads": "3M",
+    "ratings": [
+      { "name": "1 star", "count": 800000 },
+      { "name": "2 star", "count": 900000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 2900000 },
+      { "name": "5 star", "count": 3720000 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=4",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 4,
+    "description": "Send photos and videos that disappear after viewing, and explore the world through Spotlight.",
+    "size": 95,
+    "reviews": 7500000,
+    "ratingAvg": 4.2,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": 900000 },
+      { "name": "2 star", "count": 700000 },
+      { "name": "3 star", "count": 1300000 },
+      { "name": "4 star", "count": 2100000 },
+      { "name": "5 star", "count": 2500000 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=5",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 5,
+    "description": "Listen to millions of songs and podcasts, anytime and anywhere.",
+    "size": 68,
+    "reviews": 6400000,
+    "ratingAvg": 4.5,
+    "downloads": "10M",
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 2200000 },
+      { "name": "5 star", "count": 2300000 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=6",
+    "title": "Netflix",
+    "companyName": "Netflix Inc.",
+    "id": 6,
+    "description": "Stream popular movies, series, and Netflix Originals in HD quality.",
+    "size": 110,
+    "reviews": 8400000,
+    "ratingAvg": 4.3,
+    "downloads": "12M",
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 800000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 3300000 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=7",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 7,
+    "description": "Cloud-based instant messaging app focused on speed and security.",
+    "size": 60,
+    "reviews": 4600000,
+    "ratingAvg": 4.7,
+    "downloads": "9M",
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 250000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 2250000 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=8",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 8,
+    "description": "Watch, upload, and share videos with millions of users around the world.",
+    "size": 105,
+    "reviews": 18800000,
+    "ratingAvg": 4.6,
+    "downloads": "2M",
+    "ratings": [
+      { "name": "1 star", "count": 1400000 },
+      { "name": "2 star", "count": 1200000 },
+      { "name": "3 star", "count": 2500000 },
+      { "name": "4 star", "count": 4700000 },
+      { "name": "5 star", "count": 9000000 }
+    ]
+  }
+]
