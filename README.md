@@ -167,7 +167,7 @@ successful-pipeline.png
 Example:
 
 ```md
-![Successful Pipeline](./successful-pipeline.png)
+![Successful Pipeline](./screenshots/successful-pipeline.png)
 ```
 
 ---
@@ -183,7 +183,7 @@ failed-pipeline-debugging.png
 Example:
 
 ```md
-![Failed Pipeline](./failure-pipeline.png)
+![Failed Pipeline](./screenshots/failure-pipeline.png)
 ```
 
 ---
@@ -237,28 +237,3 @@ git push origin development
 ```
 
 ---
-
-# Expected Outcome
-
-After completing this assignment:
-
-- The workflow runs automatically on push
-- Self-hosted runner executes the workflow
-- React/Vite application builds successfully
-- Pipeline failures can be debugged from logs
-
----
-
-# Conclusion
-
-This assignment helped to understand:
-
-- CI/CD concepts
-- GitHub Actions workflow structure
-- Self-hosted runners
-- Automated build process
-- Pipeline debugging techniques
-
-```
-
-```
