@@ -183,7 +183,7 @@ failed-pipeline-debugging.png
 Example:
 
 ```md
-![Failed Pipeline](./screenshots/failure-pipeline.png)
+![Failed Pipeline](./screenshots/successful-pipeline.png)
 ```
 
 ---
