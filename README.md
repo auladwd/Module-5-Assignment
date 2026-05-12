@@ -167,7 +167,7 @@ successful-pipeline.png
 Example:
 
 ```md
-![Successful Pipeline](./screenshots/successful-pipeline.png)
+![Successful Pipeline](successful-pipeline.png)
 ```
 
 ---
@@ -183,7 +183,7 @@ failed-pipeline-debugging.png
 Example:
 
 ```md
-![Failed Pipeline](./screenshots/failure-pipeline.png)
+![Failed Pipeline](failure-pipeline.png)
 ```
 
 ---
@@ -207,33 +207,5 @@ to:
 This caused the GitHub Actions workflow to fail.
 
 After taking the failure screenshot, the build script was corrected again.
-
----
-
-# Commands Used
-
-## Create Workflow Folder
-
-```bash
-mkdir -p .github/workflows
-```
-
----
-
-## Create Workflow File
-
-```bash
-touch .github/workflows/ci.yml
-```
-
----
-
-## Push Changes
-
-```bash
-git add .
-git commit -m "Added GitHub Actions workflow"
-git push origin development
-```
 
 ---
